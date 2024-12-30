@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/totam-possimus-quod-tempora",
-  "version": "8.22.222",
+  "version": "8.22.223",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -429,5 +429,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/totam-possimus-quod-tempora/issues"
   },
-  "packageManager": "yarn@4.5.3"
+  "packageManager": "yarn@4.6.0"
 }
